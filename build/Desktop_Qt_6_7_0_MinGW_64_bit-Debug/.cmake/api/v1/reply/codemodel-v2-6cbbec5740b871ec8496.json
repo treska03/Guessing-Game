@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8439f8e891706b9e0f6a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CPP_PROJEKT_RANDOM",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CPP_PROJEKT_RANDOM::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CPP_PROJEKT_RANDOM-Debug-f8ae0b84f462e585ea20.json",
+					"name" : "CPP_PROJEKT_RANDOM",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CPP_PROJEKT_RANDOM_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CPP_PROJEKT_RANDOM_autogen-Debug-dd0c8e5f2348d07ad22e.json",
+					"name" : "CPP_PROJEKT_RANDOM_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CPP_PROJEKT_RANDOM_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CPP_PROJEKT_RANDOM_autogen_timestamp_deps-Debug-709d296b176bd39a365a.json",
+					"name" : "CPP_PROJEKT_RANDOM_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Bartek/uczelnia/sem4/cpp/CPP_PROJEKT_RANDOM/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Bartek/uczelnia/sem4/cpp/CPP_PROJEKT_RANDOM"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
